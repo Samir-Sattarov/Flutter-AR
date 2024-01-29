@@ -79,7 +79,7 @@ class _HomeScreenState extends State<HomeScreen> {
       builder: (BuildContext context) => AlertDialog(
         content: Row(
           children: <Widget>[
-            Text('Remove $name?'),
+            Text('Remove ?'),
             IconButton(
                 icon: Icon(
                   Icons.delete,
