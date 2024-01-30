@@ -62,9 +62,9 @@ class _HomeScreenState extends State<HomeScreen> {
       rotation: plane.pose.rotation,
     );
     // final toucanNode = ArCoreReferenceNode(
-    //   name: "Fox",
+    //   name: "Damaged Helmet",
     //   objectUrl:
-    //       "https://github.com/KhronosGroup/glTF-Sample-Models/blob/main/2.0/Fox/glTF/Fox.gltf",
+    //       "https://github.com/KhronosGroup/glTF-Sample-Models/raw/master/2.0/Duck/glTF/Duck.gltf",
     //   position: plane.pose.translation,
     //   rotation: plane.pose.rotation,
     // );
